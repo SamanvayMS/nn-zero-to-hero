@@ -1,3 +1,5 @@
+exercises solved by me have been posted along with the respective lectures. 
+all code has been modified based on the test datasets procured  and datasets have been included in the original code too which wasn't in the previous code
 
 ## Neural Networks: Zero to Hero
 
