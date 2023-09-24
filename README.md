@@ -1,4 +1,4 @@
-Contains my own individual work learnt from the videos along with the leacture notebook forked from the source.
+Contains my own individual work learnt from the videos along with the lecture notebook forked from the source.
 
 ## Neural Networks: Zero to Hero
 
